@@ -26,8 +26,3 @@
 - **Current coping:** Manually checks/searches for the next train's arrival time each time, since without knowing it they can't tell whether sprinting the transfer is worth it.
 
 *"I watched it pull away right as I got there — again." (illustrative paraphrase, not something actually said)*
-
-## Open questions
-
-- The Transfer racer's need ("should I run for this transfer, right now") is mid-trip — the app currently only answers a pre-trip question (one start place, one end place, one computed departure time). These may be different shapes of problem.
-- The Transfer racer's stated goal is minimizing total commute time — a single departure-time calculation doesn't fully address that either.

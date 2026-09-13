@@ -28,7 +28,7 @@ This is the umbrella repo for the time-to-go project. Code lives in sibling repo
 
 ## Docs
 
-- [Personas](docs/personas.md)
+- [Personas](docs/en/personas.md) ([한국어](docs/ko/personas.md))
 
 ## License
 
