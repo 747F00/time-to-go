@@ -7,7 +7,7 @@
 - **Frustration:** Frequently arrives late; feels anxious during every commute wondering if he'll make it; regularly teased by friends for it.
 - **Current coping:** Mentally calculates the minutes remaining before each appointment, but habitually leaves zero buffer.
 
-*"About 30 minutes left? It's 35 minutes to get there, so... close enough." (illustrative paraphrase, not something actually said)*
+*"About 30 minutes left? It's 35 minutes to get there, so... close enough."*
 
 ## Anxious over-preparer
 
@@ -16,7 +16,7 @@
 - **Frustration:** The nightly vigilance has built up fatigue; feels anxious every time that she's forgotten something.
 - **Current coping:** Every night, checks the next day's schedule and works backward from each appointment's start time to set minute-precise alarms for waking up and getting ready — also accounting for prep time, which varies by appointment.
 
-*"The appointment's at 10... travel takes about 50 minutes..." (illustrative paraphrase, not something actually said)*
+*"The appointment's at 10... travel takes about 50 minutes..."*
 
 ## Transfer racer
 
@@ -25,4 +25,4 @@
 - **Frustration:** Repeatedly watches the connecting Line 7 train leave right as they reach the platform during the transfer at Nonhyeon (Sinbundang line) or Gangnam-gu Office (Bundang line).
 - **Current coping:** Manually checks/searches for the next train's arrival time each time, since without knowing it they can't tell whether sprinting the transfer is worth it.
 
-*"If I'd run just now, could I have caught that train pulling away?" (illustrative paraphrase, not something actually said)*
+*"If I'd run just now, could I have caught that train pulling away?"*
